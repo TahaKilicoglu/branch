@@ -6,7 +6,7 @@
 .headings{  /*kod tekrarına düşmemek için tüm h1 leri burda tanımladık*/
     text-align: center;
     padding: 20px;
-    font-size: 40px ;
+    font-size: 30px ;
 }
 .navbar{
     display: flex;
